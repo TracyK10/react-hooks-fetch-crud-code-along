@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Bread",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Water",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
